@@ -1,9 +1,27 @@
-Nadeem
-
-My git reposietry
+Git commands
 
 
+git add test.txt.    ----> Stage specific file
+git add .            -----------> stage all files where applicable
+git commit -m "commit message" ---> commit the changes
 
-jefhefjh
+git push origin [branc_name] ---> publish changes to git hub under specific branch
 
-jhklhklhkljhkjh
+
+983  git log --oneline
+  984  git
+  985  git push origin main
+  986  git status
+  987  git log --oneline
+  988  git log --oneline
+  989  git checkout
+  990  git branch
+  991  git checkout Sub_main1
+  992  git branch
+  993  git branch
+  994  git branch -D Sub_main1
+  995  git branch
+  996  git push
+  997  git push origin Sub_main1
+  998  git push origin main
+
